@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_KOTA JAKARTA TIMUR</name>
+   <tag></tag>
+   <elementGuidId>0e8327ce-90b6-46f5-8858-8e5112a35988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.autocomplete__list-item_fTFLC.autocomplete__list-item--highlighted_AoxkV</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47416d1d-c1ac-4139-ae85-1e04e8c06d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>autocomplete__list-item_fTFLC autocomplete__list-item--highlighted_AoxkV</value>
+      <webElementGuid>949d9e45-419a-4166-9fa1-46d26a3dd070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>335ce735-3fef-431e-880e-f62c149b60d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTA JAKARTA TIMUR</value>
+      <webElementGuid>6805f1d3-5ec6-4485-9ae3-cbba675bb8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[2]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/div[@class=&quot;RegistrationForm_form-container__input-group__QnJEL&quot;]/div[@class=&quot;autocomplete__list-container_oVU2R&quot;]/div[@class=&quot;autocomplete__list-menu_sE98J&quot;]/button[@class=&quot;autocomplete__list-item_fTFLC autocomplete__list-item--highlighted_AoxkV&quot;]</value>
+      <webElementGuid>7990afde-18f8-408c-ab4a-4a93f82065a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>28ce6db3-efb4-435b-afc7-22264793ce96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div[2]/div/div[6]/div[2]/div/button</value>
+      <webElementGuid>37abd1c6-686e-41f0-ac96-046de28151fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten/Kota'])[1]/following::button[1]</value>
+      <webElementGuid>a7f26f8d-f36a-4942-93d2-bef4411bc23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Belakang'])[1]/following::button[1]</value>
+      <webElementGuid>04cb2f01-74a0-4c99-a1be-0d4547ca2f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::button[1]</value>
+      <webElementGuid>36aad039-bea5-4579-9cc8-03b2bfce7c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KOTA JAKARTA TIMUR']/parent::*</value>
+      <webElementGuid>8ada63e0-25bd-4e70-9e29-ccab83f7a1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/button</value>
+      <webElementGuid>f45cf8c4-70e4-4bd0-8d36-d70ace2ca242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'KOTA JAKARTA TIMUR' or . = 'KOTA JAKARTA TIMUR')]</value>
+      <webElementGuid>70e549e9-558d-48ba-9ed2-fd1c78505bd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
